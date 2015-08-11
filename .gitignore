@@ -1,0 +1,23 @@
+/target
+/lib
+/classes
+/checkouts
+/native
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-repl-history
+test*
+temp*
+src/cadejo/*test*
+hs_err*.log
+
+# Ignore temp emacks files
+*backup*
+*~
+[#]*[#]
+.\#*
